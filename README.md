@@ -33,7 +33,7 @@ final: part of output pictures
 structure: the structure introduction of two version networks
 
 
-## Structure
+## Network Structure
 #### Beta Version
 
 ![image](https://github.com/JJHAirylin/Auto-colorization-for-greyscale-images/blob/master/structure/beta_version.png)
@@ -111,7 +111,11 @@ It seems like it is goot at colorizing lawn and grass. But unfortunately it some
 ![image](https://github.com/JJHAirylin/Auto-colorization-for-greyscale-images/blob/master/final/final_7.png)
 
 
-## Data
+## Conclusion
+Restricted by my laptop GPU and memory space, I don't train final version network on a larger training set, at least up to thousands of pictures. As a result, the mean square error is not low enough.
+
+
+## Data Source
 
 #### Database
 
